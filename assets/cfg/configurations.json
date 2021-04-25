@@ -1,0 +1,7 @@
+{
+  "payment_base_url": "https://api.glinkpay.vip/api/payment/",
+  "api_base_url": "https://api.glinkpay.vip/api/coupon/",
+  "base_url": "https://api.glinkpay.vip/",
+  "base_url_webview": "https://payment.glinkpay.vip/",
+  "google_maps_key" : "AIzaSyBuno_inBflmQJjSrHWvkwpUwexZ8W-FLw"
+}

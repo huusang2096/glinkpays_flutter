@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>119598914299-b88sefhpsvoptofm0tbkhj9fp272m5l5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.119598914299-b88sefhpsvoptofm0tbkhj9fp272m5l5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>119598914299-kplm9qrhc3v3moaga8dkt55rb9vjc1hs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuno_inBflmQJjSrHWvkwpUwexZ8W-FLw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>119598914299</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.di4l.glinkpay</string>
+	<key>PROJECT_ID</key>
+	<string>glinkpay</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glinkpay.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:119598914299:ios:62df69dcd86de900036e5e</string>
+	<key>DATABASE_URL</key>
+	<string>https://glinkpay.firebaseio.com</string>
+	<key>io.flutter.embedded_views_preview</key>
+    <true/>
+</dict>
+</plist>

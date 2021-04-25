@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.627" height="16.092" viewBox="0 0 17.627 16.092">
+  <g id="Tab_2" data-name="Tab 2" transform="translate(17.127 19.486) rotate(180)">
+    <g id="Icon" transform="translate(0 0)">
+      <g id="Orion_money" transform="translate(0 7.902)">
+        <path id="layer1" d="M2,22.392V13.164S3.108,12,6.434,12s4.212,1.663,7.759,1.663a17.569,17.569,0,0,0,4.434-.693v9.422a8.465,8.465,0,0,1-3.88.693c-2.66,0-4.766-1.663-7.759-1.663A12.415,12.415,0,0,0,2,22.392Z" transform="translate(-2 -12)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="layer2" d="M28.872,24.157c.344,1.406-.929,2.557-2.787,2.557s-3.648-1.15-3.992-2.557S23.022,21.6,24.88,21.6,28.562,22.725,28.872,24.157Z" transform="translate(-17.261 -18.734)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <path id="right-arrow" d="M5.318.084a.28.28,0,0,0-.4.394L6.938,2.5H.279A.277.277,0,0,0,0,2.775a.28.28,0,0,0,.279.283h6.66L4.92,5.072a.286.286,0,0,0,0,.4.279.279,0,0,0,.4,0l2.5-2.5a.274.274,0,0,0,0-.394Z" transform="translate(5.521 11.293) rotate(-90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

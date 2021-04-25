@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "119598914299",
+    "firebase_url": "https://glinkpay.firebaseio.com",
+    "project_id": "glinkpay",
+    "storage_bucket": "glinkpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119598914299:android:5cb6ef2399c2dc1c036e5e",
+        "android_client_info": {
+          "package_name": "vn.di4l.glinkpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119598914299-5o2ivaignvm0tg511s54itr9ff2etqf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkpay",
+            "certificate_hash": "aa8d2abec0bf4a52c4c48e2a6675eb89365c5f02"
+          }
+        },
+        {
+          "client_id": "119598914299-blefj726n1gji61e7ng81tqd6e47j47k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkpay",
+            "certificate_hash": "ba8949a6108831b89195c61f388eba4f29648700"
+          }
+        },
+        {
+          "client_id": "119598914299-ido16m8u133fu5d4302moiv3onjf3s4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkpay",
+            "certificate_hash": "b9618b69c9958e806cff1df68e56d71bb0e8ea6d"
+          }
+        },
+        {
+          "client_id": "119598914299-kplm9qrhc3v3moaga8dkt55rb9vjc1hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkpay",
+            "certificate_hash": "ebd46d69ed95bd5b56880f05fd8414ca95058e7f"
+          }
+        },
+        {
+          "client_id": "119598914299-pjb8qm4otj0ug2nv6im01ng1nve5m60a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkpay",
+            "certificate_hash": "cbb0179bca0768bc0ee795e21a005badd2522817"
+          }
+        },
+        {
+          "client_id": "119598914299-jiqkgfc646nsm9chk3070ehks2nt516b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXjJBS9lZ8MCL1F1AHrXyEzE85eZN68Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119598914299-jiqkgfc646nsm9chk3070ehks2nt516b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119598914299-b88sefhpsvoptofm0tbkhj9fp272m5l5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.di4l.glinkpay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

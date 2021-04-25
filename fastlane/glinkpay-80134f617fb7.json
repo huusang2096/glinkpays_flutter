@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glinkpay",
+  "private_key_id": "80134f617fb7ceff7d4fb9fef293a699ffa8e601",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDoHzmkY25pKKe\nT3PEfNNAMb5tb1FK21v9Z1HgSAzky3GGWPr7mk8UQJ06sFWhagjAmF0OuTHK+1ZQ\nlQY6PBSqIN2eER0IW4LWzADdtKZ3g5TJDATiujC1+MORPb8ANJaKVmtccgXjFTj9\nD+3od6ONYZSITWAPFotOIR4o/bBJgXeXrMdY2tw21zI5XRSjQcBBQCVcclKjCYYO\nSv7pGcKSKkHrnCr+RjRkzV0YKSuC/n5BpnrUrbiWoadzevDJi87iAVFgTCXfRERr\nIS57N9ajXXs0fIJYkLE19g6JzfKeyhMCe5+/kK2YhxFMFk7Ba6mYbGjgFduqxW2j\nUxLMkR4bAgMBAAECggEAGCiyNBFGpOYBlTZvsBTQS+24vDASpIF5l05SrLWJLho3\nz2UevcK9QF2IbU6IjLIZGZvXZjGVxiEK9FGrHrb7wFTluZcYdEdE3bz84GRmaH0N\n+1QqKEvhJx/tGvs6os5bxwLMKHMGahhdXNdCRMK9poCmBL01fzeEBaaOYHaP9ku4\n0ASBzv4Oz8ZWbnuO3hWxmS5smppBk/jsCVk5r1MIRqHUNLHVI8o/mWoh/iJsx5G2\nNulMdAgjJn97ihLz25/H6/RvETgTc/quGEvH6CLpW+7aqgNPcsZyn05lPnagHFXr\nbOitpisYcLiR0oszzwhyY2w5thltzfrXzwx2FqRolQKBgQD2NeQb76leMqC3kGjt\nDmtg30e7ByVVQRMGg0zo5j7AQ7/HzlsJtgW6lvOcfWbKDaFbdgRw2PIsxwEbLTa9\nUe5HVUYZi30H+pOxaI0ZuvySxq7zzCfOj1f0maQlnSRpUxRDxMzUpm3Dh7h5xUqg\nl1K3Vh9sNoQB0Dal8Je1olrvRQKBgQDLZ7hirVA+PTzQgqZVPDkd3UvY3VDHmpjT\nIiE13H8y5q5URJHXCsAPaQ2hB22I+xDBaugzB27WO5/qBmOky9euLcACZyBakwgo\nAWVvjGEcZG6uGHseWIq5zaWaI0awcILYRt48q/TjhiOtFDrVfULj/3JKak39vcDv\nxvd9I8593wKBgGxYutEwXi/9x4wAGKx5M/elSkObmWozANRU43t6FxM0vSiIPre/\nSjYaR4oOBTXVWbSN8tZWIfxidrIm63fUni7176s+Hv9r3aKsh6tTBeLxW/wdU0cq\n/WG+WuXSiTtwO/K2oAzUUGlDSIMNtxGEhfn4BEvykZTas7HCdoCPucShAoGBAJfQ\n43NrLlA1/rUWPrWxjGP47wp/LTK99cDoYWdFGv9P49/rifq6AF3AKDb/R0cNNRVY\nCNVFf/mQaSwP9sFij6lmZkCk3iYcReMuH5qhaT36zA1PIl2k8m35ytd/6tv4LgDk\n7CzWn6JOVURyq/L6Wjm4SIK4U1vHDEEq/T++wPl7AoGBAONapA8vcmgZRHXJLyJN\nrTJgtbEwyxJLAP1s98uOlhEFqlLe4XrbD55iktI4HN/rAVsA87kVP7XoZV84qSsF\nZzpb33jkwl1CcAAWZ0daTR8xhuMOFi6Jp3sN28XCOKJa02BPZBDZ9fRAtP7CDpkZ\nWaqshimNe6mVGSQpN2FNpgjN\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-app-distribution@glinkpay.iam.gserviceaccount.com",
+  "client_id": "117271402427958863711",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-app-distribution%40glinkpay.iam.gserviceaccount.com"
+}

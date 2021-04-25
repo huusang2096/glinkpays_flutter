@@ -1,0 +1,13 @@
+include: package:pedantic/analysis_options.yaml
+
+analyzer:
+  errors:
+    todo: ignore
+    omit_local_variable_types: ignore
+    prefer_collection_literals: ignore
+    null_aware_in_logical_operator: ignore
+    null_aware_in_condition: ignore
+    deprecated_member_use: ignore
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
